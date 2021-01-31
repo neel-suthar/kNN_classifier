@@ -1,3 +1,8 @@
+# Get started:
+
+- Download notebook files(.ipynb file) along with all the csv files.
+- Upload it on Google colab and just run it 😊.
+
 # Dataset:
 
 For this implementation I have used three datasets from UCI- Machine Learning Repository.
